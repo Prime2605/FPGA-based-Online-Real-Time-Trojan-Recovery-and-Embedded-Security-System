@@ -6,7 +6,7 @@
 ![FPGA](https://img.shields.io/badge/FPGA-Spartan--7-orange)
 ![Language](https://img.shields.io/badge/HDL-Verilog-green)
 ![Status](https://img.shields.io/badge/Status-Simulation%20Complete-brightgreen)
-![College](https://gcee.ac.in-red)
+![College](https://www.gcee.ac.in/)
 
 ---
 
