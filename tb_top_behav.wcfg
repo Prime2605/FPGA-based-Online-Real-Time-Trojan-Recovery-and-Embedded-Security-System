@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0 ps"></ZoomStartTime>
+      <ZoomEndTime time="4 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/tb_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/btn_trigger" type="logic">
+      <obj_property name="ElementShortName">btn_trigger</obj_property>
+      <obj_property name="ObjectShortName">btn_trigger</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/sw" type="array">
+      <obj_property name="ElementShortName">sw[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/led_green" type="logic">
+      <obj_property name="ElementShortName">led_green</obj_property>
+      <obj_property name="ObjectShortName">led_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/led_red" type="logic">
+      <obj_property name="ElementShortName">led_red</obj_property>
+      <obj_property name="ObjectShortName">led_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/led_blue" type="logic">
+      <obj_property name="ElementShortName">led_blue</obj_property>
+      <obj_property name="ObjectShortName">led_blue</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/led_white" type="logic">
+      <obj_property name="ElementShortName">led_white</obj_property>
+      <obj_property name="ObjectShortName">led_white</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/led_result" type="array">
+      <obj_property name="ElementShortName">led_result[3:0]</obj_property>
+      <obj_property name="ObjectShortName">led_result[3:0]</obj_property>
+   </wvobject>
+</wave_config>

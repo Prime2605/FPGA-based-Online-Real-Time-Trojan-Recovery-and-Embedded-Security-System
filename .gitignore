@@ -1,0 +1,14 @@
+# Vivado ignore
+*.jou
+*.log
+*.pb
+*.dmp
+*.backup.*
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+status.txt
+status_ascii.txt
